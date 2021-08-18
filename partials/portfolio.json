@@ -1,0 +1,34 @@
+{
+    "catalog": [
+        {
+            "img": "/img/communication.jpg",
+            "alt": "Books image",
+            "fig": "Communications"
+        },
+        {
+            "img": "/img/ottawa multicolor sign.jpg",
+            "alt": "Laptop image",
+            "fig": "Web Design"
+        },
+        {
+            "img": "/img/photography.png",
+            "alt": "Photography Collage",
+            "fig": "Photography"
+        },
+        {
+            "img": "/img/web development.jpg",
+            "alt": "phone and laptop image",
+            "fig": "Web Development"
+        },
+        {
+            "img": "/img/video editing.jpg",
+            "alt": "Video Editing image",
+            "fig": "Video Editing"
+        },
+        {
+            "img": "/img/social media management.jpg",
+            "alt": "A laptop image",
+            "fig": "Social Media Management"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "title": "The Value of Money",
+            "img": "/img/suitcase.jpg",
+            "alt": "Suitecase",
+            "fig": "Suitecase of Money",
+            "text": "Often times people mistake the word of the holy book which says “The love of Money is the root of all evil” to mean that Money itself is evil but in reality, we all do love money, and I see money as the root to living life rather than the root of evil. In the first place, money can be defined as a medium of exchange that people and global economies intend to hold, and are willing to accept as payment for current or future transactions and in order for a currency to be categorized as money, it should be: fungible,  durable, recognizable, and stable. Money functions based on the general acceptance of its value within a governmental economy and internationally through foreign exchange. The current value of monetary currency is not necessarily derived from the materials used to produce the note or coin. Instead, value is derived from the willingness to agree to a displayed value and rely on it for use in future transactions.  (Investopedia, 2021) With the above explanation, it can therefore be said that money, which we physically see, has no more value than your average piece of paper, rather, the value of money only exists in our collective minds as individuals."
+        },
+        {
+            "title": "GMO Food",
+            "img": "/img/food.jpg",
+            "alt": "Peppers image",
+            "fig": "Peppers",
+            "text": "Why is it that at the first search of Genetically Modified Food, you immediately are met wth negative connotations on how they can be harmful or how unsafe they are to the human population. For anyone unfamiliar with the topic, GMO Foods are  foods produced from organisms that have had changes introduced into their DNA using the methods of genetic engineering as opposed to traditional (Wikipedia) While many may see it as possibly harmful due to chemicals or the methods used, it would be great to highlight the benefits of GMO Foods, and how it can be the answer to a lot of food crisis happening around the world. Benefits: * They grow more easily in some environments (like dry soil conditions) * Produce more crops, helping to keep food prices lower * Ripen slower, last longer during shipping or bruise less easily * Be less at risk for diseases caused by insects or viruses * Need less pesticides (like herbicides and insecticides) * Have improved nutrient content (for example, vitamin A found in Golden Rice, a GM rice crop used to fight malnutrition in developing countries). As someone who grew up in a developing country, I understand and have seen people suffer from malnutrition and other issues related to lack of sufficient food supply. I therefore am an advocate for GMO food, especially in underdeveloped countries or war torn countries.</span"
+        },
+        {
+            "title": "The View of World in 2100",
+            "img": "/img/world.jpg",
+            "alt": "World",
+            "fig": "Globe image",
+            "text": "When I hear about the world in 2100, there are too many thoughts that dance around in my head and one prominent thought is that I will not even be here to witness that era, but not being alive during that time doesn’t stop me from wondering what kind of an era it will be. Will the world keep going forward and evolving? Or will it regress and return to primitive days? Will humans still be in existence? Or will the earth still exist in one piece. I lean more to the side that believes that technology would have advanced even more in the years to come, and rather than return to primitive years, humans will only keep advancing but with advanced technology also comes advanced dangers, especially biological warfare, nuclear proliferation, and global warming. Science is a double-edged sword. One side can cut against poverty, disease, and ignorance; but the other side can also cut against the people unless it is properly controlled. Global warming will become even more disastrous, as many American cities will likely be drowned and other cities, such as New York, will be surrounded by seawalls. Biological terrorists will get more sophisticated and most likely will be able to make viral diseases, like AIDS, airborne. With climate change already dealing with most parts of the world, one can only imagine what more hurt Mother Earth could be subjected to, when the technology and productions only keep increasing."
+        }
+    ]
+}
